@@ -1,0 +1,19 @@
+{
+  "name": "tfc-marksheet",
+  "version": "1.0.0",
+  "description": "\" a simple marksheet generate program by useing inquirer",
+  "main": "marksheet.js",
+  "type": "module",
+  "bin": "marksheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
